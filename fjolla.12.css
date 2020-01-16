@@ -1,0 +1,147 @@
+#epara{
+    width: 1000px;
+    height: 1000px;
+    background-color: brown;
+
+}
+#photo{
+    width: 400px; 
+    height: 280px;
+    float: left;
+    border: 8px solid silver;
+    margin-top: 10px;
+    margin-left: 10px;
+    
+}
+#shiriti{
+    width: 1000px;
+    height: 80px;
+    background-color: silver;
+}
+#header1{
+    margin-left:25px;
+    display: inline-block;
+    float: left;
+}
+
+#header2{
+    margin-right: 25px;
+    display: inline-block;
+    float: right;
+    background-color: silver;
+}
+
+#teksti{
+    width: 510px;
+    height: 280px;
+    margin: 10px;
+    margin-left: 5px;
+    background-color: silver;
+    float: right;
+    border: 5px solid silver;
+    text-align: bottom;
+    
+}
+.titulli{
+    text-align: bottom;
+    color: white;
+    vertical-align: top 10px;
+    padding: 3px;
+    margin-left:-2px;
+    width:510px;
+    height:70px;
+    background-color: gray;
+}
+#container{
+    background-color: brown;
+    display: inline-block;
+  }
+  #box-1, #box-2, #box-3{
+    height: 650px;
+    width: 280px;
+    margin: 10px;
+    margin-left:25px;
+    margin-top: 10px;
+    display: inline-block;
+    vertical-align: top;
+  }
+  #box-1{
+    background-color: silver;
+  }
+  #box-2{
+    background-color: silver;
+  }
+  #box-3{
+    background-color: silver;
+  }
+
+  #text-1{
+    background-color: silver;
+    margin-top: -8px;
+  }
+  #text-2{
+    background-color: silver;
+    margin-top: -8px;
+  }
+  #text-3{
+    background-color: silver;
+    margin-top: -8px;
+  }
+  #boxes1{
+      height: 20px;
+      padding-top:5px;
+      margin-top:-16px;
+      color:white;
+      background-color: gray;
+
+  }
+  #boxes2{
+    height: 20px;
+    padding-top:5px;
+    margin-top:-16px;
+    color:white;
+    background-color: gray;
+      
+}
+#boxes3{
+    height: 20px;
+    padding-top:5px;
+    margin-top:-16px;
+     color:white;
+      background-color: gray;
+}
+#button{
+    float: medium;
+    margin-left:90px;
+    padding: 5px;
+    background-color: green;
+    border-radius: 25px;
+}
+
+#button1{
+    float: medium;
+    margin-left:90px;
+    padding: 5px;
+    background-color: green;
+    border-radius: 25px;
+}
+#button2{
+    float: medium;
+    margin-left:90px;
+    padding: 5px;
+    background-color: green;
+    border-radius: 25px;
+}
+#footer{
+    width: 1000px;
+    height: 90px;
+    padding-top: 15px;
+    background-color: silver
+}
+#footer1{
+    margin-left: 380px;
+}
+#footer2{
+    color: grey;
+    margin-right: 150px;
+}
